@@ -103,7 +103,7 @@ nav ul li a:hover {
 
 /* ==================== HOME SECTION ==================== */
 .home-container {
-  background-image: url(/images/bg-curvy-desktop.svg);
+  background-image: url("../images/bg-curvy-desktop.svg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
