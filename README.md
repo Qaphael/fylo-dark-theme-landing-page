@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Qaphael/fylo-dark-theme-landing-page](https://your-solution-url.com)
-- Live Site URL: [https://qaphael.github.io/fylo-dark-theme-landing-page/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Qaphael/fylo-dark-theme-landing-page](https://github.com/Qaphael/fylo-dark-theme-landing-page)
+- Live Site URL: [https://qaphael.github.io/fylo-dark-theme-landing-page/](https://qaphael.github.io/fylo-dark-theme-landing-page/)
 
 ## My process
 
